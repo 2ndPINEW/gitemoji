@@ -11,7 +11,7 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "index",
+      "name": "search",
       "title": "Search Git Emoji",
       "description": "search git commit emoji prefix",
       "mode": "view"
