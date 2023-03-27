@@ -15,7 +15,7 @@ export default function Command() {
           keywords={gitMoji.keywords}
           actions={
             <ActionPanel>
-              <Action.CopyToClipboard content={gitMoji.emoji} />
+              <Action.Paste content={gitMoji.emoji} />
             </ActionPanel>
           }
         />
