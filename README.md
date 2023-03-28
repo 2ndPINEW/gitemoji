@@ -53,6 +53,11 @@ Gitコミットの絵文字prefixを探す
     "description": "ツール（Tooling）",
     "keywords": ["tool"]
   }, {
+    "emoji": "💚",
+    "title": ":green_heart:",
+    "description": "ビルド（Fix or Add, update CI build）",
+    "keywords": ["CI", "build"]
+  }, {
     "emoji": "🚨",
     "title": ":rotating_light:",
     "description": "テスト（Tests）",
